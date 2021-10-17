@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "lvglDriver"
+		},
+		{
+			"path": "lvgl"
+		},
+		{
+			"path": "mbed-os"
+		},
+		{
+			"path": "custom_targets"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"*.htm": "html",
+			"*.html": "html",
+			"new": "cpp"
+		},
+		"cortex-debug.registerUseNaturalFormat": true,
+		"cmake.buildDirectory": "${workspaceFolder}/cmake_build/STM32F407VE_BLACK/release/GCC_ARM",
+		"cmake.buildTask": true,
+		"cmake.cmakePath": "/snap/bin/cmake"
+	}
+}
